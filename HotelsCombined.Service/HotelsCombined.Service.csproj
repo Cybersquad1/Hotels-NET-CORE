@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelsCombined.Entities\HotelsCombined.Entities.csproj" />
+    <ProjectReference Include="..\HotelsCombined.Repository\HotelsCombined.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
